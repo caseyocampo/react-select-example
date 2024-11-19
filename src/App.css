@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+.error-message {
+  border: 1px solid #b70000;
+  background: #fbd4d4;
+  line-height: 1;
+  margin-top: 1em;
+  padding: 0 0.5em;
+  border-radius: 0.25em;
+  color: #570000;
+}
